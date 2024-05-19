@@ -1,0 +1,11 @@
+
+PWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(üºéñûÿÿÿÿ8šşÕ“1
+dWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <HTML> tag.(¨äÑ>8€†«½1
+[	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(¨äÑ>8€†«½1
+O	Web:S1827".Remove this deprecated "background" attribute.(½Š¶Åÿÿÿÿÿ8€†«½1
+ZWeb:UnsupportedTagsInHtml5Check"(Remove this deprecated "center" element.(¡á€Ò8šşÕ“1
+TWeb:TableWithoutCaptionCheck" Add a description to this table.(½ô÷Ëøÿÿÿÿ8€†«½1
+J	Web:S1827")Remove this deprecated "align" attribute.(½ô÷Ëøÿÿÿÿ8€†«½1
+OWeb:TableWithoutCaptionCheck8" Add a description to this table.(º†¼Ó8€†«½1
+A	Web:S52568"%Add "<th>" headers to this "<table>".(º†¼Ó8€†«½1
+JWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(¨äÑ>8†«½1

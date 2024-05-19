@@ -1,0 +1,15 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚­¾¾
+d	java:S116"ORename this field "ISBN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‚ˆ™
+q
+java:S1450
+"[Remove the "productImage" field and declare it as a local variable in the relevant methods.(Ì¾úÆ
+p
+java:S1450	"ZRemove the "publishDate" field and declare it as a local variable in the relevant methods.(ôæÑ
+U
+java:S1161":Add the "@Override" annotation above this method signature(“¦õøúÿÿÿÿ
+E
+java:S1068	"/Remove this unused "publishDate" private field.(ôæÑ
+F
+java:S1068
+"0Remove this unused "productImage" private field.(Ì¾úÆ

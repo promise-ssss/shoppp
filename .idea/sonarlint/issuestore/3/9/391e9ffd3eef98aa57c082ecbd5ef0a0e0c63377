@@ -1,0 +1,25 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "loginBean" 5 times.(îæŒŒøÿÿÿÿ8À§Íı“1
+k
+java:S11920"IDefine a constant instead of duplicating this literal "root.jsp" 3 times.(ÓûÑúÿÿÿÿ8À§Íı“1
+x
+java:S1192L"VDefine a constant instead of duplicating this literal "index6-userUpdate.jsp" 3 times.(ƒŒ‚Óøÿÿÿÿ8À§Íı“1
+j
+java:S2095E"HUse try-with-resources or close this "Connection" in a "finally" clause.(óÙÑÎûÿÿÿÿ8–¨Íı“1
+l
+java:S2095O"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ì¹è×8–¨Íı“1
+E
+java:S1185"(Remove this method to simply inherit it.(®´š¥8˜¨Íı“1
+W
+java:S1161":Add the "@Override" annotation above this method signature(®´š¥8˜¨Íı“1
+\
+java:S1161":Add the "@Override" annotation above this method signature(Ÿ©›‰ıÿÿÿÿ8™¨Íı“1
+X
+java:S2441";Make "Login" serializable or don't store it in the session.(üÂì°8š¨Íı“1
+X
+java:S2441%";Make "Login" serializable or don't store it in the session.(üÂì°8›¨Íı“1
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(ÿïƒôşÿÿÿÿ8œ¨Íı“1
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(œã½Ì8¨Íı“1
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(á¦Ğğ8¨Íı“1
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(êû×ùÿÿÿÿ8¨Íı“1

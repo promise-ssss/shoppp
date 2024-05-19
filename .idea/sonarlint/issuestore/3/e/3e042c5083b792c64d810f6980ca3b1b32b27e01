@@ -1,0 +1,22 @@
+
+k
+java:S1192"NDefine a constant instead of duplicating this literal "txt/login.jsp" 3 times.(‘½ã8áàÖ’1
+c
+java:S2259b"AA "NullPointerException" could be thrown; "con" is nullable here.(éÆ“šûÿÿÿÿ8ÍâàÖ’1
+q
+java:S2095R"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(µŸ‹üÿÿÿÿ8ÍâàÖ’1
+q
+java:S20956"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(å¤æ˜üÿÿÿÿ8ÍâàÖ’1
+q
+java:S2095W"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÜœÊúÿÿÿÿ8ÍâàÖ’1
+
+java:S11499"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ8ÏâàÖ’1
+E
+java:S1185"(Remove this method to simply inherit it.(®´š¥8ÏâàÖ’1
+W
+java:S1161":Add the "@Override" annotation above this method signature(®´š¥8ÏâàÖ’1
+\
+java:S1161":Add the "@Override" annotation above this method signature(Ÿ©›‰ıÿÿÿÿ8ÑâàÖ’1
+I
+java:S1125G"'Remove the unnecessary boolean literal.(İî“âüÿÿÿÿ8ÔâàÖ’1
+E	java:S108d")Either remove or fill this block of code.(¢Åôñ8ØâàÖ’1

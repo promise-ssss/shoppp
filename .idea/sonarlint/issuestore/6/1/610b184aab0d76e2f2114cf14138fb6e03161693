@@ -1,0 +1,16 @@
+
+PWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(üºéñûÿÿÿÿ8¥›úë“1
+eWeb:DoctypePresenceCheck%":Insert a <!DOCTYPE> declaration to before this <HTML> tag.(òå8¥›úë“1
+\	Web:S5254%"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(òå8¥›úë“1
+J	Web:S1827%".Remove this deprecated "background" attribute.(òå8¥›úë“1
+ZWeb:UnsupportedTagsInHtml5Check*"(Remove this deprecated "center" element.(¡á€Ò8¥›úë“1
+TWeb:TableWithoutCaptionCheck," Add a description to this table.(Ò±‚²ıÿÿÿÿ8ıÖì“1
+F	Web:S5256,"%Add "<th>" headers to this "<table>".(Ò±‚²ıÿÿÿÿ8ıÖì“1
+J	Web:S1827,")Remove this deprecated "align" attribute.(Ò±‚²ıÿÿÿÿ8ÿ¶ ì“1
+E	Web:S1827G")Remove this deprecated "align" attribute.(íÊƒ8´©¤ì“1
+OWeb:TableWithoutCaptionCheckL" Add a description to this table.(åû•8½úœì“1
+E	Web:S1827L")Remove this deprecated "align" attribute.(åû•8½úœì“1
+ZWeb:UnsupportedTagsInHtml5Checku"(Remove this deprecated "center" element.(¡á€Ò8½úœì“1
+PWeb:TableWithoutCaptionCheck…" Add a description to this table.(Öş ˆ8½úœì“1
+B	Web:S5256…"%Add "<th>" headers to this "<table>".(Öş ˆ8½úœì“1
+KWeb:PageWithoutTitleCheck%"Add a <title> tag to this page.(òå8½úœì“1

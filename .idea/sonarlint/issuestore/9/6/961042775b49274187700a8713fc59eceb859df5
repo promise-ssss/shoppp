@@ -1,0 +1,19 @@
+
+™
+java:S26818"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(Ì‚ˆÌ8Ü¬Í×’1
+c
+java:S2259C"AA "NullPointerException" could be thrown; "con" is nullable here.(éÆ“šûÿÿÿÿ8’¯Í×’1
+c
+java:S22591"FA "NullPointerException" could be thrown; "dataBean" is nullable here.(ÑÑ—ý8’¯Í×’1
+d
+java:S2095("GUse try-with-resources or close this "Statement" in a "finally" clause.(ýõÜá8’¯Í×’1
+E
+java:S1185"(Remove this method to simply inherit it.(®´š¥8•¯Í×’1
+W
+java:S1161":Add the "@Override" annotation above this method signature(®´š¥8–¯Í×’1
+\
+java:S1161":Add the "@Override" annotation above this method signature(Ÿ©›‰ýÿÿÿÿ8˜¯Í×’1
+^
+java:S2441"AMake "Record_Bean" serializable or don't store it in the session.(™ò›À8š¯Í×’1
+J	java:S108!")Either remove or fill this block of code.(”šÏ ùÿÿÿÿ8›¯Í×’1
+E	java:S108E")Either remove or fill this block of code.(¢Åôñ8ž¯Í×’1

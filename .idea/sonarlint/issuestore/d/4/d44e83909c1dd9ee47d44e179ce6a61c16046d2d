@@ -1,0 +1,17 @@
+
+c
+java:S2259-"FA "NullPointerException" could be thrown; "dataBean" is nullable here.(ÑÑ—ı8ÿéö“1
+c
+java:S2259?"AA "NullPointerException" could be thrown; "con" is nullable here.(éÆ“šûÿÿÿÿ8şéö“1
+d
+java:S2095$"GUse try-with-resources or close this "Statement" in a "finally" clause.(ıõÜá8ÿéö“1
+E
+java:S1185"(Remove this method to simply inherit it.(®´š¥8‚êö“1
+W
+java:S1161":Add the "@Override" annotation above this method signature(®´š¥8‚êö“1
+\
+java:S1161":Add the "@Override" annotation above this method signature(Ÿ©›‰ıÿÿÿÿ8ƒêö“1
+^
+java:S2441"AMake "Record_Bean" serializable or don't store it in the session.(™ò›À8…êö“1
+J	java:S108")Either remove or fill this block of code.(”šÏ ùÿÿÿÿ8…êö“1
+E	java:S108A")Either remove or fill this block of code.(¢Åôñ8‡êö“1

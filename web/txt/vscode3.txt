@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style1.css">    <!--引入css-->
+  <title>小黄鸭商店管理</title>
+</head>
+<body>
+  <div class="header">
+      <div class="container">
+          <div class="logo">
+              <a href="web.index.jsp">
+                  <img src="image/教书.png" width="95" alt="小黄人商店">
+              </a>
+          </div>
+          <ul class="list">
+             <li>
+                  <a href="rootIndex1-users.jsp">用户管理</a>
+              </li>
+              <li>
+                  <a href="rootIndex2-goods.jsp">商品管理</a>
+              </li>
+              <li>
+                  <a href="rootIndex3-addGood.jsp">添加商品</a>
+                </li>
+              <li>
+                  <a href="rootExitServlet">退出</a>
+              </li>
+          </ul>
+      </div>
+
+  </div>
+</body>
+</html>

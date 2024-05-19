@@ -1,0 +1,15 @@
+
+k
+java:S1192)"IDefine a constant instead of duplicating this literal "root.jsp" 3 times.(ΣϋΡϊÿÿÿÿ8ΕΊγμ“1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²”ώα8ΕΊγμ“1
+c
+java:S2259X"AA "NullPointerException" could be thrown; "con" is nullable here.(ιΖ“ϋÿÿÿÿ8€½έν“1
+l
+java:S2095B"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ϊι²β8€½έν“1
+E
+java:S1185"(Remove this method to simply inherit it.(®΄¥8γΊγμ“1
+W
+java:S1161":Add the "@Override" annotation above this method signature(®΄¥8γΊγμ“1
+\
+java:S1161":Add the "@Override" annotation above this method signature(©›‰ύÿÿÿÿ8εΊγμ“1
+E	java:S108Z")Either remove or fill this block of code.(ΆΕτρ8ιΊγμ“1

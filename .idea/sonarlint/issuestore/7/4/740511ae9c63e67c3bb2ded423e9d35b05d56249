@@ -1,0 +1,14 @@
+
+k
+java:S1192"NDefine a constant instead of duplicating this literal "txt/login.jsp" 3 times.(‘½ã8ášÞÖ’1
+\
+java:S2259B"AA "NullPointerException" could be thrown; "con" is nullable here.(éÆ“šûÿÿÿÿ
+q
+java:S20954"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÜœÊúÿÿÿÿ8òšÞÖ’1
+>
+java:S1185"(Remove this method to simply inherit it.(®´š¥
+P
+java:S1161":Add the "@Override" annotation above this method signature(®´š¥
+U
+java:S1161":Add the "@Override" annotation above this method signature(Ÿ©›‰ýÿÿÿÿ
+>	java:S108D")Either remove or fill this block of code.(¢Åôñ

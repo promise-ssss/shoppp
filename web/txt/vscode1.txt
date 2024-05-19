@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style1.css">    <!--引入css-->
+  <title>小黄人商店</title>
+</head>
+<body>
+  <div class="header">
+      <div class="container">
+          <div class="logo">
+              <a href="index.jsp">
+                  <img src="image/教书.png" width="95" alt="小黄人商店">
+              </a>
+          </div>
+          <ul class="list">
+             <li>
+                  <a href="index.jsp">欢迎页</a>
+              </li>
+              <li>
+                  <a href="index2.jsp">浏览商品</a>
+              </li>
+ 
+              <li>
+                  <a href="index4-register.jsp">注册</a>
+              </li>
+              <li>
+                  <a href="index5-login.jsp">登录</a>
+              </li>
+              <li>
+                  <a href="index3-about.jsp">关于</a>
+              </li>
+              <li>
+                  <a href="searchMobile.jsp">查询商品</a>
+              </li>
+              <li>
+                  <a href="lookShoppingCar.jsp">查看购物车</a>
+              </li>
+              <li>
+                  <a href="lookOrderForm.jsp">查看订单</a>
+              </li>
+              <li>
+              <a href="root.jsp">管理员登录</a>
+                </li>
+              <li>
+                    <a href="index6-userUpdate.jsp">信息修改</a>
+                </li>
+              <li>
+                  <a href="exitServlet">退出</a>
+              </li>
+          </ul>
+      </div>
+
+  </div>
+</body>
+</html>

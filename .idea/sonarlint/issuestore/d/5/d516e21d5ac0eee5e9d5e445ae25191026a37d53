@@ -1,0 +1,16 @@
+
+PWeb:PageWithoutTitleCheck
+"Add a <title> tag to this page.(üºéñûÿÿÿÿ8ÜéíÖ’1
+dWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <HTML> tag.(¨äÑ>8ÜéíÖ’1
+[	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(¨äÑ>8ÜéíÖ’1
+O	Web:S1827".Remove this deprecated "background" attribute.(üîùúùÿÿÿÿ8ÜéíÖ’1
+E	Web:S1827")Remove this deprecated "align" attribute.(òå„ë8ÜéíÖ’1
+OWeb:TableWithoutCaptionCheck(" Add a description to this table.(’²‚å8ú£Ÿ½1
+E	Web:S1827(")Remove this deprecated "align" attribute.(’²‚å8ú£Ÿ½1
+E	Web:S1827*")Remove this deprecated "width" attribute.(ÑÓô8ú£Ÿ½1
+J	Web:S1827+")Remove this deprecated "width" attribute.(ä‰ÅÓûÿÿÿÿ8ú£Ÿ½1
+J	Web:S1827,")Remove this deprecated "width" attribute.(ÓŠÌçüÿÿÿÿ8ú£Ÿ½1
+J	Web:S1827-")Remove this deprecated "width" attribute.(ùåÉÉüÿÿÿÿ8ú£Ÿ½1
+J	Web:S1827.")Remove this deprecated "width" attribute.(‹Ä€ıûÿÿÿÿ8ú£Ÿ½1
+E	Web:S1827/")Remove this deprecated "width" attribute.(àÛÜ8ú£Ÿ½1
+JWeb:PageWithoutTitleCheck"Add a <title> tag to this page.(¨äÑ>8ÜéíÖ’1

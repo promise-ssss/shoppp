@@ -1,0 +1,30 @@
+
+l
+java:S1192Y"JDefine a constant instead of duplicating this literal "loginBean" 4 times.(îæŒŒøÿÿÿÿ8‹ûó¼1
+c
+java:S2259O"AA "NullPointerException" could be thrown; "con" is nullable here.(éÆ“šûÿÿÿÿ8­ûó¼1
+i
+java:S2095."GUse try-with-resources or close this "Statement" in a "finally" clause.(İ”•úÿÿÿÿ8­ûó¼1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( ˜½¢ùÿÿÿÿ8®ûó¼1
+E
+java:S1185"(Remove this method to simply inherit it.(®´š¥8¯ûó¼1
+W
+java:S1161":Add the "@Override" annotation above this method signature(®´š¥8°ûó¼1
+\
+java:S1161":Add the "@Override" annotation above this method signature(Ÿ©›‰ıÿÿÿÿ8°ûó¼1
+H
+java:S1659#"&Declare "password" on a separate line.(‹®„ôüÿÿÿÿ8°ûó¼1
+I
+java:S11252"'Remove the unnecessary boolean literal.(®÷Š¦şÿÿÿÿ8²ûó¼1
+X	java:S1257"<This block of commented-out lines of code should be removed.(–ğºÅ8³ûó¼1
+E	java:S108Q")Either remove or fill this block of code.(¢Åôñ8³ûó¼1
+K
+java:S1172U"/Remove this unused method parameter "response".(‡‰ŒX8´ûó¼1
+X
+java:S2441\";Make "Login" serializable or don't store it in the session.(üÂì°8µûó¼1
+X
+java:S2441m";Make "Login" serializable or don't store it in the session.(üÂì°8¶ûó¼1
+P
+java:S1172r".Remove this unused method parameter "request".(‰øÖ­øÿÿÿÿ8¶ûó¼1
+J	java:S108~")Either remove or fill this block of code.(ÏèùŞùÿÿÿÿ8·ûó¼1

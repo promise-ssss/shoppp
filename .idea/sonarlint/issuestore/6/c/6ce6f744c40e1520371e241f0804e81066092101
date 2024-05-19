@@ -1,0 +1,25 @@
+
+
+java:S1192"rDefine a constant instead of duplicating this literal "SELECT ISBN, good_name, book_publish, good_price " 4 times.(êé³z8ü¬÷Ö’1
+™
+java:S2681S"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(Ì‚ˆÌ8Ø¬ïÖ’1
+c
+java:S2259^"AA "NullPointerException" could be thrown; "con" is nullable here.(éÆ“šûÿÿÿÿ8»¯ïÖ’1
+c
+java:S2259L"FA "NullPointerException" could be thrown; "dataBean" is nullable here.(ÑÑ—ı8»¯ïÖ’1
+q
+java:S2095E"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª“§»úÿÿÿÿ8½¯ïÖ’1
+E
+java:S1185"(Remove this method to simply inherit it.(®´š¥8¿¯ïÖ’1
+W
+java:S1161":Add the "@Override" annotation above this method signature(®´š¥8¿¯ïÖ’1
+\
+java:S1161":Add the "@Override" annotation above this method signature(Ÿ©›‰ıÿÿÿÿ8À¯ïÖ’1
+G
+java:S1197&"*Move the array designators [] to the type.(ïŸÕô8Â¯ïÖ’1
+R
+java:S6397&"5Replace this character class by the character itself.(ïŸÕô8Â¯ïÖ’1
+^
+java:S2441;"AMake "Record_Bean" serializable or don't store it in the session.(™ò›À8Ä¯ïÖ’1
+J	java:S108>")Either remove or fill this block of code.(”šÏ ùÿÿÿÿ8Ä¯ïÖ’1
+E	java:S108`")Either remove or fill this block of code.(¢Åôñ8Æ¯ïÖ’1

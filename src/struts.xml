@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <package name="com" extends="struts-default">
+        <action name="registerAction" class="handle.data.HandleRegisterAction">
+            <result name="success">/index5-login.jsp</result>
+            <result name="error">/index4-register.jsp</result>
+            <result name="input">/index4-register.jsp</result>
+        </action>
+
+                <action name="loginAction" class="handle.data.HandleLoginAction">
+                    <result name="success">/</result>
+                    <result name="input">/</result>
+                </action>
+
+        <action name="queryAction" class="handle.data.HandleQueryAction">
+            <result name="success">/byPageShow.jsp</result>
+        </action>
+
+        <action name="showDetailAction" class="handle.data.ShowDetailAction">
+            <result name="login">/index5-login.jsp</result>
+            <result name="success">/showDetail.jsp</result>
+        </action>
+
+    </package>
+</struts>
